@@ -14,7 +14,6 @@
 ##Screenshot User
 
 ![screencapture-127-0-0-1-8000-2024-05-09-18_18_42](https://github.com/gozali97/car-manajemen/assets/58220137/642eb050-2901-4aea-a16f-0a53cbbf49ac)
-![screencapture-127-0-0-1-8000-product-2024-05-09-18_19_16](https://github.com/gozali97/car-manajemen/assets/58220137/9a87ce54-64fe-4c49-8dd5-1bffe40a88f1)
 ![11](https://github.com/gozali97/car-manajemen/assets/58220137/739194f7-2e9d-4124-aaa9-6f3493cf3bff)
 ![screencapture-127-0-0-1-8000-transaksi-add-daihatsu-sigra-2024-05-09-18_25_42](https://github.com/gozali97/car-manajemen/assets/58220137/6843a5bb-9bb3-4643-8310-061bc114126a)
 ![screencapture-127-0-0-1-8000-dashboard-2024-05-09-18_20_31](https://github.com/gozali97/car-manajemen/assets/58220137/a4f10e66-afed-43fd-9382-c47d1c215241)
