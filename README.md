@@ -1,4 +1,4 @@
-![screencapture-127-0-0-1-8000-admin-brands-2024-05-09-18_14_55](https://github.com/gozali97/car-manajemen/assets/58220137/bef385ab-7b28-427e-aa0b-b7f810c974bf)![screencapture-127-0-0-1-8000-admin-brands-2024-05-09-18_14_55](https://github.com/gozali97/car-manajemen/assets/58220137/52345657-3228-491c-8288-ecefbd8e9791)![screencapture-127-0-0-1-8000-admin-categories-2024-05-09-18_14_34](https://github.com/gozali97/car-manajemen/assets/58220137/1e91c229-be15-4414-b8a4-3a09146821b4)# Laravel 11 with inertia, Vue Js 3 and Filament
+# Laravel 11 with inertia, Vue Js 3 and Filament
 
 ## Coding Test - Web Developer PT. Transindo Data Perkasa
 
